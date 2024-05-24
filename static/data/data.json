@@ -1,0 +1,911 @@
+[
+    {
+        "year": 2021,
+        "hostCity": "Tokyo",
+        "hostCountry": "Japan",
+        "lightingCeremony": {
+            "date": "March 12, 2020",
+            "location": "Olympia, Greece"
+        },
+        "torchDesign": {
+            "description": "Inspired by the shape of a cherry blossom flower.",
+            "designers": ["Tokujin Yoshioka"]
+        },
+        "torchRelay": {
+            "startDate": "March 25, 2021",
+            "endDate": "July 23, 2021",
+            "distance": "Approximately 20,000 km",
+            "notableTorchbearers": ["Naomi Osaka"]
+        },
+        "arrivalAtTheStadium": {
+            "date": "July 23, 2021",
+            "finalTorchbearers": ["Naomi Osaka"]
+        },
+        "olympicCauldron": {
+            "description": "Designed to look like a blooming flower.",
+            "designers": ["Oki Sato"]
+        },
+        "legacyAndImpact": {
+            "impact": "Highlighted themes of recovery and resilience.",
+            "memorableMoments": ["Lighting by Naomi Osaka."]
+        }
+    },
+    {
+        "year": 2016,
+        "hostCity": "Rio de Janeiro",
+        "hostCountry": "Brazil",
+        "lightingCeremony": {
+            "date": "April 21, 2016",
+            "location": "Olympia, Greece"
+        },
+        "torchDesign": {
+            "description": "Sleek design with colors representing sea, mountains, sky, and sun.",
+            "designers": ["Chelles & Hayashi"]
+        },
+        "torchRelay": {
+            "startDate": "April 21, 2016",
+            "endDate": "August 5, 2016",
+            "distance": "Approximately 20,000 km",
+            "notableTorchbearers": ["Pelé"]
+        },
+        "arrivalAtTheStadium": {
+            "date": "August 5, 2016",
+            "finalTorchbearers": ["Vanderlei Cordeiro de Lima"]
+        },
+        "olympicCauldron": {
+            "description": "Smaller, symbolic cauldron with kinetic sculpture.",
+            "designers": ["Anthony Howe"]
+        },
+        "legacyAndImpact": {
+            "impact": "Highlighted Brazil’s cultural diversity and environmental issues.",
+            "memorableMoments": ["Lighting by Vanderlei Cordeiro de Lima."]
+        }
+    },
+    {
+        "year": 2012,
+        "hostCity": "London",
+        "hostCountry": "United Kingdom",
+        "lightingCeremony": {
+            "date": "May 10, 2012",
+            "location": "Olympia, Greece"
+        },
+        "torchDesign": {
+            "description": "Elegant design with 8,000 small cut-out circles.",
+            "designers": ["Edward Barber and Jay Osgerby"]
+        },
+        "torchRelay": {
+            "startDate": "May 19, 2012",
+            "endDate": "July 27, 2012",
+            "distance": "Approximately 12,800 km",
+            "notableTorchbearers": ["David Beckham", "Sir Steve Redgrave"]
+        },
+        "arrivalAtTheStadium": {
+            "date": "July 27, 2012",
+            "finalTorchbearers": ["Seven young athletes"]
+        },
+        "olympicCauldron": {
+            "description": "204 copper petals forming a single flame.",
+            "designers": ["Thomas Heatherwick"]
+        },
+        "legacyAndImpact": {
+            "impact": "Emphasized legacy and youth, celebrating community.",
+            "memorableMoments": ["Unique cauldron design."]
+        }
+    },
+    {
+        "year": 2008,
+        "hostCity": "Beijing",
+        "hostCountry": "China",
+        "lightingCeremony": {
+            "date": "March 24, 2008",
+            "location": "Olympia, Greece"
+        },
+        "torchDesign": {
+            "description": "Design inspired by traditional scrolls and the 'lucky cloud' motif.",
+            "designers": ["Li Jianye"]
+        },
+        "torchRelay": {
+            "startDate": "March 24, 2008",
+            "endDate": "August 8, 2008",
+            "distance": "137,000 km, including international segments",
+            "notableTorchbearers": ["Liu Xiang"]
+        },
+        "arrivalAtTheStadium": {
+            "date": "August 8, 2008",
+            "finalTorchbearers": ["Li Ning"]
+        },
+        "olympicCauldron": {
+            "description": "Cauldron design featuring a large scroll unrolling upwards.",
+            "designers": ["Cai Guoqiang"]
+        },
+        "legacyAndImpact": {
+            "impact": "Showcased China's cultural heritage and modernization.",
+            "memorableMoments": ["Spectacular cauldron lighting by Li Ning, who ran along the stadium's roof."]
+        }
+    },
+    {
+        "year": 2004,
+        "hostCity": "Athens",
+        "hostCountry": "Greece",
+        "lightingCeremony": {
+            "date": "March 25, 2004",
+            "location": "Olympia, Greece"
+        },
+        "torchDesign": {
+            "description": "Design inspired by an olive leaf, symbolizing peace.",
+            "designers": ["Andreas Varotsos"]
+        },
+        "torchRelay": {
+            "startDate": "March 25, 2004",
+            "endDate": "August 13, 2004",
+            "distance": "78,000 km, including international segments",
+            "notableTorchbearers": ["Pyrros Dimas"]
+        },
+        "arrivalAtTheStadium": {
+            "date": "August 13, 2004",
+            "finalTorchbearers": ["Nikolaos Kaklamanakis"]
+        },
+        "olympicCauldron": {
+            "description": "Modern cauldron designed to resemble an olive tree.",
+            "designers": ["Santiago Calatrava"]
+        },
+        "legacyAndImpact": {
+            "impact": "Emphasized the connection to the ancient Olympics and Greece's heritage.",
+            "memorableMoments": ["Lighting of the cauldron by windsurfer Nikolaos Kaklamanakis."]
+        }
+    },
+    {
+        "year": 2000,
+        "hostCity": "Sydney",
+        "hostCountry": "Australia",
+        "lightingCeremony": {
+            "date": "May 10, 2000",
+            "location": "Olympia, Greece"
+        },
+        "torchDesign": {
+            "description": "Inspired by the Sydney Opera House and the boomerang.",
+            "designers": ["Blue Sky Design, Michael Bryce"]
+        },
+        "torchRelay": {
+            "startDate": "June 8, 2000",
+            "endDate": "September 15, 2000",
+            "distance": "27,000 km",
+            "notableTorchbearers": ["Cathy Freeman"]
+        },
+        "arrivalAtTheStadium": {
+            "date": "September 15, 2000",
+            "finalTorchbearers": ["Cathy Freeman"]
+        },
+        "olympicCauldron": {
+            "description": "Cauldron designed to rise from a circular pool of water.",
+            "designers": ["Michael Scott-Mitchell"]
+        },
+        "legacyAndImpact": {
+            "impact": "Celebrated Australian Aboriginal culture and reconciliation.",
+            "memorableMoments": ["Cathy Freeman's dramatic lighting of the cauldron."]
+        }
+    },
+    {
+        "year": 1996,
+        "hostCity": "Atlanta",
+        "hostCountry": "United States",
+        "lightingCeremony": {
+            "date": "April 6, 1996",
+            "location": "Olympia, Greece"
+        },
+        "torchDesign": {
+            "description": "Modern design with 22 aluminum reeds representing the 22nd Olympiad.",
+            "designers": ["Peter Mastrogiannis"]
+        },
+        "torchRelay": {
+            "startDate": "April 27, 1996",
+            "endDate": "July 19, 1996",
+            "distance": "26,875 km",
+            "notableTorchbearers": ["Muhammad Ali"]
+        },
+        "arrivalAtTheStadium": {
+            "date": "July 19, 1996",
+            "finalTorchbearers": ["Muhammad Ali"]
+        },
+        "olympicCauldron": {
+            "description": "Cauldron designed to symbolize the American South and the Olympic spirit.",
+            "designers": ["S2C Inc."]
+        },
+        "legacyAndImpact": {
+            "impact": "Celebrated centennial of the modern Olympics.",
+            "memorableMoments": ["Muhammad Ali lighting the cauldron despite his Parkinson's disease."]
+        }
+    },
+    {
+        "year": 1992,
+        "hostCity": "Barcelona",
+        "hostCountry": "Spain",
+        "lightingCeremony": {
+            "date": "June 5, 1992",
+            "location": "Olympia, Greece"
+        },
+        "torchDesign": {
+            "description": "Minimalist design with symbolic elements of Catalonia.",
+            "designers": ["Andre Ricard"]
+        },
+        "torchRelay": {
+            "startDate": "June 25, 1992",
+            "endDate": "July 25, 1992",
+            "distance": "6,500 km",
+            "notableTorchbearers": ["Antonio Rebollo"]
+        },
+        "arrivalAtTheStadium": {
+            "date": "July 25, 1992",
+            "finalTorchbearers": ["Antonio Rebollo"]
+        },
+        "olympicCauldron": {
+            "description": "Cauldron designed to represent the Mediterranean.",
+            "designers": ["Isabel Allende"]
+        },
+        "legacyAndImpact": {
+            "impact": "Transformed Barcelona into a global city.",
+            "memorableMoments": ["Antonio Rebollo lighting the cauldron with an arrow."]
+        }
+    },
+    {
+        "year": 1988,
+        "hostCity": "Seoul",
+        "hostCountry": "South Korea",
+        "lightingCeremony": {
+            "date": "March 23, 1988",
+            "location": "Olympia, Greece"
+        },
+        "torchDesign": {
+            "description": "Simple, modern design reflecting Korean culture.",
+            "designers": ["Lee Woo-sung"]
+        },
+        "torchRelay": {
+            "startDate": "April 27, 1988",
+            "endDate": "September 17, 1988",
+            "distance": "4,167 km",
+            "notableTorchbearers": ["Son Mi-na"]
+        },
+        "arrivalAtTheStadium": {
+            "date": "September 17, 1988",
+            "finalTorchbearers": ["Chung Sun-man and Kim Won-tak"]
+        },
+        "olympicCauldron": {
+            "description": "Cauldron design inspired by traditional Korean cauldrons.",
+            "designers": ["Kim Kwang-hyun"]
+        },
+        "legacyAndImpact": {
+            "impact": "Marked South Korea's emergence on the global stage.",
+            "memorableMoments": ["Joint lighting of the cauldron by Chung Sun-man and Kim Won-tak."]
+        }
+    },
+    {
+        "year": 1984,
+        "hostCity": "Los Angeles",
+        "hostCountry": "United States",
+        "lightingCeremony": {
+            "date": "May 8, 1984",
+            "location": "Olympia, Greece"
+        },
+        "torchDesign": {
+            "description": "Classic design reflecting American heritage.",
+            "designers": ["Robert Beck"]
+        },
+        "torchRelay": {
+            "startDate": "May 8, 1984",
+            "endDate": "July 28, 1984",
+            "distance": "15,000 km",
+            "notableTorchbearers": ["Rafer Johnson"]
+        },
+        "arrivalAtTheStadium": {
+            "date": "July 28, 1984",
+            "finalTorchbearers": ["Rafer Johnson"]
+        },
+        "olympicCauldron": {
+            "description": "Modern cauldron design representing LA's dynamic spirit.",
+            "designers": ["David W. Williams"]
+        },
+        "legacyAndImpact": {
+            "impact": "Showcased commercial viability of the Olympics.",
+            "memorableMoments": ["Rafer Johnson lighting the cauldron."]
+        }
+    },
+    {
+        "year": 1980,
+        "hostCity": "Moscow",
+        "hostCountry": "Soviet Union",
+        "lightingCeremony": {
+            "date": "June 19, 1980",
+            "location": "Olympia, Greece"
+        },
+        "torchDesign": {
+            "description": "Design incorporating elements of Soviet aesthetics.",
+            "designers": ["Victor Ivanov"]
+        },
+        "torchRelay": {
+            "startDate": "June 19, 1980",
+            "endDate": "July 19, 1980",
+            "distance": "5,000 km",
+            "notableTorchbearers": ["Sergei Belov"]
+        },
+        "arrivalAtTheStadium": {
+            "date": "July 19, 1980",
+            "finalTorchbearers": ["Sergei Belov"]
+        },
+        "olympicCauldron": {
+            "description": "Cauldron design reflecting Soviet architectural style.",
+            "designers": ["Nikolai Milovidov"]
+        },
+        "legacyAndImpact": {
+            "impact": "Marked by a significant boycott led by the United States.",
+            "memorableMoments": ["Sergei Belov lighting the cauldron."]
+        }
+    },
+    {
+        "year": 1976,
+        "hostCity": "Montreal",
+        "hostCountry": "Canada",
+        "lightingCeremony": {
+            "date": "July 13, 1976",
+            "location": "Olympia, Greece"
+        },
+        "torchDesign": {
+            "description": "Simple design reflecting Canadian aesthetics.",
+            "designers": ["George Huel"]
+        },
+        "torchRelay": {
+            "startDate": "July 13, 1976",
+            "endDate": "July 17, 1976",
+            "distance": "775 km",
+            "notableTorchbearers": ["Stéphane Préfontaine and Sandra Henderson"]
+        },
+        "arrivalAtTheStadium": {
+            "date": "July 17, 1976",
+            "finalTorchbearers": ["Stéphane Préfontaine and Sandra Henderson"]
+        },
+        "olympicCauldron": {
+            "description": "Modern cauldron design representing Canada's natural beauty.",
+            "designers": ["Roger Taillibert"]
+        },
+        "legacyAndImpact": {
+            "impact": "Highlighted financial challenges and over-budget costs.",
+            "memorableMoments": ["Lighting by two young Canadians, Préfontaine and Henderson."]
+        }
+    },
+    {
+        "year": 1972,
+        "hostCity": "Munich",
+        "hostCountry": "West Germany",
+        "lightingCeremony": {
+            "date": "July 28, 1972",
+            "location": "Olympia, Greece"
+        },
+        "torchDesign": {
+            "description": "Design reflecting modernist aesthetics of the era.",
+            "designers": ["Otl Aicher"]
+        },
+        "torchRelay": {
+            "startDate": "July 28, 1972",
+            "endDate": "August 26, 1972",
+            "distance": "5,532 km",
+            "notableTorchbearers": ["Günther Zahn"]
+        },
+        "arrivalAtTheStadium": {
+            "date": "August 26, 1972",
+            "finalTorchbearers": ["Günther Zahn"]
+        },
+        "olympicCauldron": {
+            "description": "Cauldron design inspired by simplicity and modernity.",
+            "designers": ["Friedrich Ludwig"]
+        },
+        "legacyAndImpact": {
+            "impact": "Marked by tragic terrorist attack.",
+            "memorableMoments": ["Günther Zahn lighting the cauldron."]
+        }
+    },
+    {
+        "year": 1968,
+        "hostCity": "Mexico City",
+        "hostCountry": "Mexico",
+        "lightingCeremony": {
+            "date": "August 23, 1968",
+            "location": "Olympia, Greece"
+        },
+        "torchDesign": {
+            "description": "Design incorporating Mexican cultural motifs.",
+            "designers": ["Pedro Ramirez Vazquez"]
+        },
+        "torchRelay": {
+            "startDate": "August 23, 1968",
+            "endDate": "October 12, 1968",
+            "distance": "13,620 km",
+            "notableTorchbearers": ["Enriqueta Basilio"]
+        },
+        "arrivalAtTheStadium": {
+            "date": "October 12, 1968",
+            "finalTorchbearers": ["Enriqueta Basilio"]
+        },
+        "olympicCauldron": {
+            "description": "Cauldron design representing Mexico's rich heritage.",
+            "designers": ["Felix Candela"]
+        },
+        "legacyAndImpact": {
+            "impact": "First Games held in Latin America.",
+            "memorableMoments": ["First woman, Enriqueta Basilio, lighting the cauldron."]
+        }
+    },
+    {
+        "year": 1964,
+        "hostCity": "Tokyo",
+        "hostCountry": "Japan",
+        "lightingCeremony": {
+            "date": "August 21, 1964",
+            "location": "Olympia, Greece"
+        },
+        "torchDesign": {
+            "description": "Elegant design reflecting Japanese culture.",
+            "designers": ["Kenji Ekuan"]
+        },
+        "torchRelay": {
+            "startDate": "August 21, 1964",
+            "endDate": "October 10, 1964",
+            "distance": "26,065 km",
+            "numberOfTorchbearers": 870,
+            "notableTorchbearers": ["Yoshinori Sakai"]
+        },
+        "arrivalAtTheStadium": {
+            "date": "October 10, 1964",
+            "finalTorchbearers": ["Yoshinori Sakai"]
+        },
+        "olympicCauldron": {
+            "description": "Cauldron design symbolizing Japan's post-war reconstruction.",
+            "designers": ["Shinobu Tsujimura"]
+        },
+        "legacyAndImpact": {
+            "impact": "Marked Japan's return to the global stage.",
+            "memorableMoments": ["Lighting by Yoshinori Sakai, born on the day of the Hiroshima bombing."]
+        }
+    },
+    {
+        "year": 1960,
+        "hostCity": "Rome",
+        "hostCountry": "Italy",
+        "lightingCeremony": {
+            "date": "August 12, 1960",
+            "location": "Olympia, Greece"
+        },
+        "torchDesign": {
+            "description": "Classic design reflecting ancient Roman history.",
+            "designers": ["Amedeo Maiuri"]
+        },
+        "torchRelay": {
+            "startDate": "August 12, 1960",
+            "endDate": "August 25, 1960",
+            "distance": "2,750 km",
+            "notableTorchbearers": ["Giancarlo Peris"]
+        },
+        "arrivalAtTheStadium": {
+            "date": "August 25, 1960",
+            "finalTorchbearers": ["Giancarlo Peris"]
+        },
+        "olympicCauldron": {
+            "description": "Design inspired by ancient Roman cauldrons.",
+            "designers": ["Giovanni Agnelli"]
+        },
+        "legacyAndImpact": {
+            "impact": "Celebrated Italy's rich cultural heritage.",
+            "memorableMoments": ["Lighting by Giancarlo Peris in the ancient stadium."]
+        }
+    },
+    {
+        "year": 1956,
+        "hostCity": "Melbourne",
+        "hostCountry": "Australia",
+        "lightingCeremony": {
+            "date": "November 22, 1956",
+            "location": "Olympia, Greece"
+        },
+        "torchDesign": {
+            "description": "Simple design with a modern touch.",
+            "designers": ["Ralph Lavers"]
+        },
+        "torchRelay": {
+            "startDate": "November 22, 1956",
+            "endDate": "December 8, 1956",
+            "distance": "20,470 km",
+            "notableTorchbearers": ["Ron Clarke"]
+        },
+        "arrivalAtTheStadium": {
+            "date": "December 8, 1956",
+            "finalTorchbearers": ["Ron Clarke"]
+        },
+        "olympicCauldron": {
+            "description": "Cauldron design reflecting Australia's heritage.",
+            "designers": ["Sidney Nolan"]
+        },
+        "legacyAndImpact": {
+            "impact": "First Olympics in the Southern Hemisphere.",
+            "memorableMoments": ["Lighting by Ron Clarke, who later became a prominent mayor."]
+        }
+    },
+    {
+        "year": 1952,
+        "hostCity": "Helsinki",
+        "hostCountry": "Finland",
+        "lightingCeremony": {
+            "date": "June 19, 1952",
+            "location": "Olympia, Greece"
+        },
+        "torchDesign": {
+            "description": "Design inspired by Finnish craftsmanship.",
+            "designers": ["Antti Nurmesniemi"]
+        },
+        "torchRelay": {
+            "startDate": "June 19, 1952",
+            "endDate": "July 19, 1952",
+            "distance": "7,870 km",
+            "notableTorchbearers": ["Paavo Nurmi"]
+        },
+        "arrivalAtTheStadium": {
+            "date": "July 19, 1952",
+            "finalTorchbearers": ["Paavo Nurmi"]
+        },
+        "olympicCauldron": {
+            "description": "Simple, elegant design symbolizing Finland's purity.",
+            "designers": ["Alvar Aalto"]
+        },
+        "legacyAndImpact": {
+            "impact": "Marked Finland's recovery after World War II.",
+            "memorableMoments": ["Paavo Nurmi, a national hero, lighting the cauldron."]
+        }
+    },
+    {
+        "year": 1948,
+        "hostCity": "London",
+        "hostCountry": "United Kingdom",
+        "lightingCeremony": {
+            "date": "July 17, 1948",
+            "location": "Olympia, Greece"
+        },
+        "torchDesign": {
+            "description": "Design reflecting post-war austerity.",
+            "designers": ["Ralph Lavers"]
+        },
+        "torchRelay": {
+            "startDate": "July 17, 1948",
+            "endDate": "July 29, 1948",
+            "distance": "3,160 km",
+            "notableTorchbearers": ["John Mark"]
+        },
+        "arrivalAtTheStadium": {
+            "date": "July 29, 1948",
+            "finalTorchbearers": ["John Mark"]
+        },
+        "olympicCauldron": {
+            "description": "Cauldron design reflecting resilience and hope.",
+            "designers": ["Donald Bailey"]
+        },
+        "legacyAndImpact": {
+            "impact": "First Olympics after World War II.",
+            "memorableMoments": ["Lighting by John Mark, symbolizing post-war recovery."]
+        }
+    },
+    {
+        "year": 1936,
+        "hostCity": "Berlin",
+        "hostCountry": "Germany",
+        "lightingCeremony": {
+            "date": "July 20, 1936",
+            "location": "Olympia, Greece"
+        },
+        "torchDesign": {
+            "description": "First modern torch design, symbolizing tradition and modernity.",
+            "designers": ["Walter Lemcke"]
+        },
+        "torchRelay": {
+            "startDate": "July 20, 1936",
+            "endDate": "August 1, 1936",
+            "distance": "3,075 km",
+            "notableTorchbearers": ["Fritz Schilgen"]
+        },
+        "arrivalAtTheStadium": {
+            "date": "August 1, 1936",
+            "finalTorchbearers": ["Fritz Schilgen"]
+        },
+        "olympicCauldron": {
+            "description": "Design inspired by classical Greek elements.",
+            "designers": ["Walter Lemcke"]
+        },
+        "legacyAndImpact": {
+            "impact": "Introduced the torch relay tradition.",
+            "memorableMoments": ["Fritz Schilgen lighting the first modern cauldron."]
+        }
+    },
+    {
+        "year": 1932,
+        "hostCity": "Los Angeles",
+        "hostCountry": "United States",
+        "lightingCeremony": {
+            "date": "July 30, 1932",
+            "location": "No torch relay held"
+        },
+        "torchDesign": {
+            "description": "No torch design, as there was no relay.",
+            "designers": []
+        },
+        "torchRelay": {
+            "startDate": "N/A",
+            "endDate": "N/A",
+            "distance": "N/A",
+            "numberOfTorchbearers": "N/A",
+            "notableTorchbearers": []
+        },
+        "arrivalAtTheStadium": {
+            "date": "July 30, 1932",
+            "finalTorchbearers": ["N/A"]
+        },
+        "olympicCauldron": {
+            "description": "Classic design representing American innovation.",
+            "designers": ["John Parkinson"]
+        },
+        "legacyAndImpact": {
+            "impact": "Showcased the grandeur of American architecture.",
+            "memorableMoments": ["First use of an Olympic Village."]
+        }
+    },
+    {
+        "year": 1928,
+        "hostCity": "Amsterdam",
+        "hostCountry": "Netherlands",
+        "lightingCeremony": {
+            "date": "July 28, 1928",
+            "location": "No torch relay held"
+        },
+        "torchDesign": {
+            "description": "No torch design, as there was no relay.",
+            "designers": []
+        },
+        "torchRelay": {
+            "startDate": "N/A",
+            "endDate": "N/A",
+            "distance": "N/A",
+            "numberOfTorchbearers": "N/A",
+            "notableTorchbearers": []
+        },
+        "arrivalAtTheStadium": {
+            "date": "July 28, 1928",
+            "finalTorchbearers": ["N/A"]
+        },
+        "olympicCauldron": {
+            "description": "First Olympic cauldron, simple design.",
+            "designers": ["Jan Wils"]
+        },
+        "legacyAndImpact": {
+            "impact": "Introduced the Olympic flame.",
+            "memorableMoments": ["First lighting of the Olympic cauldron."]
+        }
+    },
+    {
+        "year": 1924,
+        "hostCity": "Paris",
+        "hostCountry": "France",
+        "lightingCeremony": {
+            "date": "May 4, 1924",
+            "location": "No torch relay held"
+        },
+        "torchDesign": {
+            "description": "No torch design, as there was no relay.",
+            "designers": []
+        },
+        "torchRelay": {
+            "startDate": "N/A",
+            "endDate": "N/A",
+            "distance": "N/A",
+            "numberOfTorchbearers": "N/A",
+            "notableTorchbearers": []
+        },
+        "arrivalAtTheStadium": {
+            "date": "May 4, 1924",
+            "finalTorchbearers": ["N/A"]
+        },
+        "olympicCauldron": {
+            "description": "No cauldron, no flame used.",
+            "designers": []
+        },
+        "legacyAndImpact": {
+            "impact": "Improved organizational standards for future Games.",
+            "memorableMoments": ["Introduction of the Olympic motto 'Citius, Altius, Fortius'."]
+        }
+    },
+    {
+        "year": 1920,
+        "hostCity": "Antwerp",
+        "hostCountry": "Belgium",
+        "lightingCeremony": {
+            "date": "August 14, 1920",
+            "location": "No torch relay held"
+        },
+        "torchDesign": {
+            "description": "No torch design, as there was no relay.",
+            "designers": []
+        },
+        "torchRelay": {
+            "startDate": "N/A",
+            "endDate": "N/A",
+            "distance": "N/A",
+            "numberOfTorchbearers": "N/A",
+            "notableTorchbearers": []
+        },
+        "arrivalAtTheStadium": {
+            "date": "August 14, 1920",
+            "finalTorchbearers": ["N/A"]
+        },
+        "olympicCauldron": {
+            "description": "No cauldron, no flame used.",
+            "designers": []
+        },
+        "legacyAndImpact": {
+            "impact": "Introduced the Olympic flag and oath.",
+            "memorableMoments": ["First use of the Olympic flag."]
+        }
+    },
+    {
+        "year": 1912,
+        "hostCity": "Stockholm",
+        "hostCountry": "Sweden",
+        "lightingCeremony": {
+            "date": "May 5, 1912",
+            "location": "No torch relay held"
+        },
+        "torchDesign": {
+            "description": "No torch design, as there was no relay.",
+            "designers": []
+        },
+        "torchRelay": {
+            "startDate": "N/A",
+            "endDate": "N/A",
+            "distance": "N/A",
+            "numberOfTorchbearers": "N/A",
+            "notableTorchbearers": []
+        },
+        "arrivalAtTheStadium": {
+            "date": "May 5, 1912",
+            "finalTorchbearers": ["N/A"]
+        },
+        "olympicCauldron": {
+            "description": "No cauldron, no flame used.",
+            "designers": []
+        },
+        "legacyAndImpact": {
+            "impact": "Set high standards for organization and facilities.",
+            "memorableMoments": ["Introduction of the decathlon and pentathlon."]
+        }
+    },
+    {
+        "year": 1908,
+        "hostCity": "London",
+        "hostCountry": "United Kingdom",
+        "lightingCeremony": {
+            "date": "April 27, 1908",
+            "location": "No torch relay held"
+        },
+        "torchDesign": {
+            "description": "No torch design, as there was no relay.",
+            "designers": []
+        },
+        "torchRelay": {
+            "startDate": "N/A",
+            "endDate": "N/A",
+            "distance": "N/A",
+            "numberOfTorchbearers": "N/A",
+            "notableTorchbearers": []
+        },
+        "arrivalAtTheStadium": {
+            "date": "April 27, 1908",
+            "finalTorchbearers": ["N/A"]
+        },
+        "olympicCauldron": {
+            "description": "No cauldron, no flame used.",
+            "designers": []
+        },
+        "legacyAndImpact": {
+            "impact": "Introduced standard rules and regulations.",
+            "memorableMoments": ["First time athletes marched as teams with their flags."]
+        }
+    },
+    {
+        "year": 1904,
+        "hostCity": "St. Louis",
+        "hostCountry": "United States",
+        "lightingCeremony": {
+            "date": "July 1, 1904",
+            "location": "No torch relay held"
+        },
+        "torchDesign": {
+            "description": "No torch design, as there was no relay.",
+            "designers": []
+        },
+        "torchRelay": {
+            "startDate": "N/A",
+            "endDate": "N/A",
+            "distance": "N/A",
+            "numberOfTorchbearers": "N/A",
+            "notableTorchbearers": []
+        },
+        "arrivalAtTheStadium": {
+            "date": "July 1, 1904",
+            "finalTorchbearers": ["N/A"]
+        },
+        "olympicCauldron": {
+            "description": "No cauldron, no flame used.",
+            "designers": []
+        },
+        "legacyAndImpact": {
+            "impact": "Integrated with the World's Fair, leading to organizational challenges.",
+            "memorableMoments": ["First Olympic gold medal for a Black athlete, George Poage."]
+        }
+    },
+    {
+        "year": 1900,
+        "hostCity": "Paris",
+        "hostCountry": "France",
+        "lightingCeremony": {
+            "date": "May 14, 1900",
+            "location": "No torch relay held"
+        },
+        "torchDesign": {
+            "description": "No torch design, as there was no relay.",
+            "designers": []
+        },
+        "torchRelay": {
+            "startDate": "N/A",
+            "endDate": "N/A",
+            "distance": "N/A",
+            "numberOfTorchbearers": "N/A",
+            "notableTorchbearers": []
+        },
+        "arrivalAtTheStadium": {
+            "date": "May 14, 1900",
+            "finalTorchbearers": ["N/A"]
+        },
+        "olympicCauldron": {
+            "description": "No cauldron, no flame used.",
+            "designers": []
+        },
+        "legacyAndImpact": {
+            "impact": "Marred by poor organization and scheduling.",
+            "memorableMoments": ["First participation of women in the Olympics."]
+        }
+    },
+    {
+        "year": 1896,
+        "hostCity": "Athens",
+        "hostCountry": "Greece",
+        "lightingCeremony": {
+            "date": "April 6, 1896",
+            "location": "No torch relay held"
+        },
+        "torchDesign": {
+            "description": "No torch design, as there was no relay.",
+            "designers": []
+        },
+        "torchRelay": {
+            "startDate": "N/A",
+            "endDate": "N/A",
+            "distance": "N/A",
+            "numberOfTorchbearers": "N/A",
+            "notableTorchbearers": []
+        },
+        "arrivalAtTheStadium": {
+            "date": "April 6, 1896",
+            "finalTorchbearers": ["N/A"]
+        },
+        "olympicCauldron": {
+            "description": "No cauldron, no flame used.",
+            "designers": []
+        },
+        "legacyAndImpact": {
+            "impact": "Revival of the modern Olympic Games.",
+            "memorableMoments": ["Introduction of the modern Olympic Games."]
+        }
+    }
+]
